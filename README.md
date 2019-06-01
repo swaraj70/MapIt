@@ -3,9 +3,9 @@ Launches a map in the browser using an address from the command line or clipboar
 
 1) For taking address from command line:<br/>
 
-   '''python
+   ```python
    ./mapIt.py <input address>
-   '''
+   ```
 
 2) For taking address from clipboard:
    <br/>Copy the address you want to search and just run the program.
