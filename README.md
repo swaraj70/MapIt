@@ -7,4 +7,4 @@ Launches a map in the browser using an address from the command line or clipboar
    '''
 
 2) For taking address from clipboard:
-   \nCopy the address you want to search and just run the program.
+   <br/>Copy the address you want to search and just run the program.
