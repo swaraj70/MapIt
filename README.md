@@ -1,8 +1,10 @@
 # MapIt
 Launches a map in the browser using an address from the command line or clipboard.
 
-1) For taking address from command line: 
-   '''bash
+1) For taking address from command line:<br/>
+
+   '''
+   
    ./mapIt.py <input address>
    '''
 
