@@ -3,8 +3,7 @@ Launches a map in the browser using an address from the command line or clipboar
 
 1) For taking address from command line:<br/>
 
-   '''
-   
+   '''python
    ./mapIt.py <input address>
    '''
 
